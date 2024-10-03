@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm maruguMo</h1>
+<h1 align="center">Hi 👋, I'm Marugu</h1>
 <h3 align="center">A fullstack developer focusing on node, react, defi and others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marugumo&label=Profile%20views&color=0e75b6&style=flat" alt="marugumo" /> </p>
