@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Marugu</h1>
-<h3 align="center">A fullstack developer focusing on node, react, defi and others</h3>
+<h1 align="center">hi 👋, i'm marugu</h1>
+<h3 align="center">a fullstack developer focusing on node, react, defi and others</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marugumo&label=Profile%20views&color=0e75b6&style=flat" alt="marugumo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marugumo" alt="marugumo" /></a> </p>
 
-- 🔭I'm currently working on [micropoetry](https://github.com/maruguMo/MicroPoetry)
+- 🔭i'm currently working on [micropoetry](https://github.com/maruguMo/MicroPoetry)
 
-- 🌱 I’m currently learning **Node, pg, React, Defi**
+- 🌱 i’m currently learning **Node, pg, React, Defi**
 
-- 💬 Ask me about **HTML, CSS, JS, python, vb, C#**
+- 💬 ask me about **HTML, CSS, JS, python, vb, C#**
 
-- 📫 How to reach me **marugu@outlook.com**
+- 📫 how to reach me **marugu@outlook.com**
 
-- ⚡ Fun fact **I love poetry**
+- ⚡ fun fact **I love poetry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
